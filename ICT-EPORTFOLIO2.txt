@@ -1,0 +1,125 @@
+
+
+<html>
+<head>
+<title>E-Portfolio ICT-TLE-9 LAYUG </title>
+</head>
+<body style="background-color:#B9A5E2">
+<h1 style="font-size:60px; text-align:center; color:051650; font-family:Garamond;"> E-PORTFOLIO-ICT FIRST QUARTER </h1>
+<h3 style="text-align:center;color:051650; ; font-family:Garamond;"> Sharpay P. Layug 9-Family </h3>
+<p style="text-align:center;font-family: Garamond; font-size:20px">
+ Hello there! Im Sharpay and this is my E-Portfolio! I will tell you about my self and my reflection this quarter
+</p>
+<p style="text-align:left; font-family:Garamond; font-size:15px">
+<b>But first,answer the following!</b> </p>
+
+<table border="1" width="100%">
+<td width="30%" valign="100%">
+<ul>
+<form>
+<li> <hr align="center"><h5> Name <input type="text"> </h5> <br> </li>
+<li> What can you say about this portfolio? <br> <br>
+<textarea name="feedback" rows="5" cols="25"> </textarea> <br> <br> </li>
+<li> Which of the following words best describes Sharpay? <br>
+<input name ="pictype" type="radio" value="cross"> Crazy
+<input name ="pictype" type="radio" value="cross"> Introvert
+<input name ="pictype" type="radio" value="cross"> Outgoing </li> <br> <br>
+<li> Who are you in Sharpay's life? <select nme="contractchoice" size="1" 
+<option> Family member </option>
+<option> Family member</option>
+<option> Friends </option>
+<option> Schoolmates </option>
+<option> Lover </option> </select></li>
+<br><br>
+<li><input type="submit" value="submit">
+<input type="reset" value="reset"> </li> </form> </ul> </td>
+</table>
+
+
+
+<hr style="height:10px; background-color:White;">
+<h2 style="text-align:center; color:051650; font-family:Garamond;">About Me </h2>
+
+<p align="center">
+<img src="C:\Users\bianca\OneDrive\Documents\ICT Pt\ABOUT ME.jpg" width="400" height="300">
+</p>
+
+<p style="text-align:justify; font-family:Garamond; font-size:15px">
+Words aren’t enough to describe how versatile I am. For me I’m a very artistic,outgoing,brave,sensitive,and emphatic person.  I love living the life to the fullest. Even if I have problems I always say, “yoyo” meaning you’re only young ones and just “let it happen”. At the end of the day it’s up to yourself whether you live your live miserable or fun.
+Another thing about me is that i have a lot of hobbies and interest. <br> 
+Heres my hobbies and interest(Inside the table).
+
+<table border="2" bordercolor="051650" align="center"> 
+<tr bgcolor="#ff0000">
+</tr>
+<tr>
+<th align="center" width="200">HOBBIES</th> 
+<th align="center" width="200">INTEREST</th>
+</tr>
+<tr>
+<td align="center" width="100"> Painting </td>
+<td align="center" width="100"> Marvel </td>
+</tr>
+<tr>
+<td align="center" width="100"> Watching Movies</td>
+<td align="center" width="100"> Harry Potter </td>
+</tr>
+<tr>
+<td align="center" width="100"> Listening to music</td>
+<td align="center" width="100"> Star Wars</td>
+</tr>
+<tr>
+<td align="center" width="100"> Drawing</td>
+<td align="center" width="100"> Arctic Monkeys</td>
+</tr>
+</table>
+<p style="text-align=:left;">
+<h3 style="text-align:center; color:051650; font-family:Garamond;"> My favorite Songs </h3>
+<a href="https://www.youtube.com/watch?v=CAC-onWPMB0"> Kiss Me by Sixpence none the richer </a><br> <br>
+<a href="https://www.youtube.com/watch?v=mGUjVbsYG6E"> No.1 Party Anthem by Arctic Monkeys </a>
+</p>
+<hr style="height:10px; background-color:White;">
+
+<h3 style="text-align:center; color:051650; font-family:Garamond;"> ACTIVITIES</h3>
+<h2 style="text-align:center; color:051650; font-family:Garamond;">I.D PICTURE DAY!</h2>
+
+</p>
+<p align="center">
+<img src= "C:\Users\bianca\Downloads\ID PICTURE DAY.jpg" width="400" height="300">
+
+</p>
+<p style="text-align:center; font-family:Garamond; font-size:15px">
+This is the first ever class picture we took as a class.
+</p>
+
+<h2 style="text-align:center; color:051650; font-family:Garamond;">FREE TIME!</h2>
+
+<p align="center">
+<img src="C:\Users\bianca\Downloads\FREET.jpg" width="400" height="300">
+<video controls src="C:\Users\bianca\Downloads\FREE.mp4" width="450" height="250">
+</p>
+
+<p style="text-align:center; font-family:Garamond; font-size:15px">
+During free times,We take pictures and silly videos for memories. NOTE; this video was taken during breaks and we did not upload it.
+</p>
+
+<h2 style="text-align:center; color:051650; font-family:Garamond;">LAST VBALL MATCH BY SECTION!</h2>
+
+<p align="center">
+<img src="C:\Users\bianca\Downloads\VBALL.jpg" width="500" height="300">
+</p>
+<p style="text-align:center; font-family:Garamond; font-size:15px">
+By far, this is the best moment with Family. Because after match there was still time remaining so we played a "crazy" version of volleyball. No rules, no winners,just fun.
+</p>
+
+<hr style="height:10px; background-color:White;">
+<h2 style="text-align:center; color:051650; font-family:Garamond;">FIRST QUARTER REFLECTION</h2>
+
+<p style="text-align:center; font-family:Garamond; font-size:15px">
+This quarter,is like a roller coaster ride. So many ups and downs,but overall its fun while it lasted. Personally, i find this quarter quite hard because im not a really
+'techy' person. But with the help of my friends im able to get some of the lesson and apply it to our performance task. For me the  most difficult thing about this subject is 
+the performance task especially when we're doing it face to face. The most important lesson that i learned from this class isnt about tables or hyperlink. Its about practice. 
+Because in this class,practice makes progress.If you dont practice you will fail. My promise for the next quarter that i will study each lesson carefully and apply it to codes.
+</p> 
+</body>
+</html>
